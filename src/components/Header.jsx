@@ -14,7 +14,7 @@ function Header(){
          cursor-pointer lg:min-w-[100px] lg:text-[1.5rem] lg:mr-[20px] lg:mt-[20px]'>
          Blogs</Link>
          </div>
-         <video autoPlay loop src="../../public/Animation.mp4" className='w-[250px] ml-auto mr-auto mt-[100px] lg:w-[700px]'></video>
+         <video autoPlay loop src="/Animation.mp4" className='w-[250px] ml-auto mr-auto mt-[100px] lg:w-[700px]'></video>
        </section>
          </>
     )
