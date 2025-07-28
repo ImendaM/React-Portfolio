@@ -3,4 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/ryqz0o1gpi8n/public_html
     - rm -rf $DEPLOYPATH/*
-    - cp -R dist/* $DEPLOYPATH
+    - cp -r dist/. $DEPLOYPATH
