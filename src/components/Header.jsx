@@ -22,21 +22,6 @@ function Header(){
 
 export default Header
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Responsive Design
 /* 
 Responsive design is a method of creating websites in a way that the user interface is rendered accurately across devices with
